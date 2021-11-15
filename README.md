@@ -1,9 +1,9 @@
 # Smart-Plug
 Smart Plug Mobile Application Code Files
-https://github.com/KusumaKalyan/Smart-Plug-Mobile-Application
+https://github.com/SrikanthKoti/Smart-Plug-Mobile-Application
 
 Smart Plug Website Code Files
-https://github.com/KusumaKalyan/Smart-Plug-Website
+https://github.com/SrikanthKoti/Smart-Plug-Website
 
 ## Smart Plug Images
 <img src="https://github.com/KusumaKalyan/Smart-Plug/blob/main/images/IMG%20(3).jpg" alt="alt text" width="500" height="500">
